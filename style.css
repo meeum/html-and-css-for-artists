@@ -1,0 +1,17 @@
+body {
+
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.band-image {
+    width: 100%;
+}
+
+audio {
+    width: 100%;
+    background: red;
+}
