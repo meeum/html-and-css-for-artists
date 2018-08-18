@@ -52,7 +52,7 @@ footer a {
     text-align: center;
     text-transform: uppercase;
     text-decoration: none;
-    
+    border: 1px solid black;
 }
 
 .button:hover {
