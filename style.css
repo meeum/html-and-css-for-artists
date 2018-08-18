@@ -5,7 +5,7 @@ body {
     background-color: black;
     margin: 0;
     padding: 20px;
-    background:url('resources/earwax.jpg') no-repeat fixed 50% 50% #000;
+    background: url('resources/earwax-live-shot.jpg') no-repeat fixed 50% 50% #000;
     background-size: cover;
     
 }
@@ -22,9 +22,7 @@ footer {
 }
 
 
-.band-image {
-    width: 100%;
-}
+
 
 audio {
     width: 100%;
@@ -38,4 +36,26 @@ audio {
     margin-bottom: 50px;
     background-color:RGBa(240, 248, 255,0.8);
     padding: 20px;
+}
+
+footer a {
+    color: #f1f1f1;
+}
+
+.button {
+    padding: 10px;
+    max-width: 500px;
+    margin: 0 auto;
+    display: block;
+    background-color: black;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    
+}
+
+.button:hover {
+    background: white;
+    color: black;
 }
