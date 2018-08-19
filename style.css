@@ -15,6 +15,10 @@ img {
     height: auto;
 }
 
+iframe {
+    max-width: 100%;
+}
+
 header,
 footer {
     text-align: center;
@@ -39,6 +43,8 @@ audio {
     background-color:RGBa(240, 248, 255,0.8);
     padding: 20px;
 }
+
+
 
 a {
     color: crimson;
