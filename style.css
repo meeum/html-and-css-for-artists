@@ -21,11 +21,13 @@ footer {
     color: white;
 }
 
-
+h1 {
+    font-size: 100px;
+}
 
 
 audio {
-    width: 100%;
+    width: 100%;    
 
 }
 
@@ -38,6 +40,14 @@ audio {
     padding: 20px;
 }
 
+a {
+    color: crimson;
+}
+
+
+footer {
+    font-size: 12px;
+}
 footer a {
     color: #f1f1f1;
 }
