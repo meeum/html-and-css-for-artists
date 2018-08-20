@@ -2,10 +2,15 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   line-height: 1.4;
   font-size: 20px;
-  background-color: black;
+  
   margin: 0;
   padding: 20px;
-  background: url("resources/earwax-live-shot.jpg") no-repeat fixed 50% 50% #000;
+
+  background-color: black;
+  background-image: url("resources/earwax-live-shot.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-position: center top;
   background-size: cover;
 }
 
